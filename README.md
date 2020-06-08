@@ -4,7 +4,7 @@
  
 Files for modular "Nanoleaf" style connecting LED PCBs. Each triangular board contains three 4020 Side-Emitting SK6812 LEDs, which diffuse their light into a translucent acrylic cover panel. The triangular LED boards are connected via smaller rectangular connector PCBs using a system of pressure contacts and pads. 
 
-![Board Connectors](src="Pictures/BackView.jpg?raw=true" | width=480)
+![Board Connectors](Pictures/BackView.jpg?raw=true | width=480)
 
 This repository contains Eagle CAD files for the Triangle LED boards and connector boards. Be warned that SMT soldering 4020 side-emitting LEDs is *very* tricky if you decide to make your own. Best accomplished with solder paste and a reflow oven or hot air gun
 
