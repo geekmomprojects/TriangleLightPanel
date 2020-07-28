@@ -1,6 +1,6 @@
 CAD Files:
 
-"DiffusionLayerAcrylic.svg" to be cut from 1/8" semi-translicent acrylic, sits on the front of the triangle PCB to diffuse light from side emitting LEDs. 
+"DiffusionLayerAcrylic.svg" to be cut from 1/8" semi-translucent acrylic, sits on the front of the triangle PCB to diffuse light from side emitting LEDs. 
 "BufferLayerAcrylic.svg" to be cut from 1/16" clear acrylic, sits on back of triangle PCB to prevent pressure contacts from being crushed
 
 See BOM.xls for sourcing details
